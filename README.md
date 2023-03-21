@@ -36,71 +36,17 @@ Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestã
 é melhorar a gestão do negócio, é muito importante que ele consiga ter
 relatórios, como por exemplo, de vendas.
 
-## 2- Empréstimo
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-## 3- Ordem de Serviço (O.S.)
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
-
 # Situação Problema
 
-**Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.**
+Gerenciamento de uma Clínica de Estética 
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são
-    propostas com empresas fictícias, sendo assim,
-    você terá que tomar certas decisões sobre como
-    a empresa funciona em relação às coisas que
-    não estão definidas no documento base (por
-    exemplo, no caso da padaria, dizemos que seu
-    Genival contratou mais funcionários, mas saber
-    quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a
-    empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários,
-    etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma
-    ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa
-    diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia
-    ajudar a resolvê-los.
+A Sra. Isabela, nossa cliente, depois de se aprimorar em seu curso de estética resolveu abrir sua própria clínica. Nos dias atuais Isabela usa uma planilha no excel para controle de vendas e faturamento. Seus procedimentos, valores, pacotes e promoções são apresentados em folhetos de papel o que acaba gerando uma desorganização. Para marcar o procedimento, é feito por whatsapp ou telefone, e após a confirmação do cliente será agendado no papel. 
+O pagamento é feito diretamente na empresa, podendo ser cartão, pix ou dinheiro. Seu relatório de faturamento semanal é feito manualmente.
+Ela viu a necessidade de um software que auxilie em seu trabalho, para facilitar a comunicação com seus clientes e melhorar a organização de seus funcionários. 
+Para isso, ela deseja um sistema que gerencie os clientes, pacotes, procedimentos e relatório de faturamento.
 
 # Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
-desejado e permita sua continuidade.
-
-**Alguns pontos importantes a se destacar são:**
-
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em
-    telas ou detalhes específicos, pois isso será feito em outro momento.
-    -   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
-        eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O software será de fácil acesso para clientes e administradores, aos clientes será disponibilizado um bom parâmetro para conhecer e se interessar pelo trabalho realizado na clínica. Aos administradores (Dona e gerente, pois demais funcionários não terão acesso), o controle de vendas, relatório de faturamento,acesso e cadastros.
+Para marcar um procedimento será disponibilizado um link de direcionamento para contato com a clínica, em que procedimentos, pacotes e algumas perguntas padrão serão apresentadas, após a confirmação do cliente, automaticamente será agendado no software e o cliente receberá um e-mail de confirmação. Ou o cliente tem a opção de entrar em contato diretamente pelo telefone e o administrador irá registrar o procedimento no software.
+Depois que o procedimento é realizado, é disponibilizado um link de pagamento (pix,cartão débito ou crédito) onde o software irá confirmar o pagamento para a clínica e irá registrar no relatório de faturamento.
