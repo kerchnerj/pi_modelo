@@ -50,3 +50,16 @@ Para isso, ela deseja um sistema que gerencie os clientes, pacotes, procedimento
 O software será de fácil acesso para clientes e administradores, aos clientes será disponibilizado um bom parâmetro para conhecer e se interessar pelo trabalho realizado na clínica. Aos administradores (Dona e gerente, pois demais funcionários não terão acesso), o controle de vendas, relatório de faturamento,acesso e cadastros.
 Para marcar um procedimento será disponibilizado um link de direcionamento para contato com a clínica, em que procedimentos, pacotes e algumas perguntas padrão serão apresentadas, após a confirmação do cliente, automaticamente será agendado no software e o cliente receberá um e-mail de confirmação. Ou o cliente tem a opção de entrar em contato diretamente pelo telefone e o administrador irá registrar o procedimento no software.
 Depois que o procedimento é realizado, é disponibilizado um link de pagamento (pix,cartão débito ou crédito) onde o software irá confirmar o pagamento para a clínica e irá registrar no relatório de faturamento.
+
+#  Regras de negócio
+
+RN01- Para fazer o agendamento é necessário os dados do cliente e o procedimento no horário disponível.
+RN02 - Se o cliente não comparecer o horário ficará vago para encaixe.
+RN03- Para a confirmação do comparecimento do cliente, o sistema irá mandar uma mensagem no whatsapp um dia antes do procedimento.
+RN04- Cadastros de Cliente: Atualmente somente os administradores cadastram clientes.
+RN05 - Cadastro de procedimentos: Todos os funcionários têm permissão para cadastrar procedimentos estéticos. 
+RN06- Pagamento do procedimento: Após ser feito o procedimento é feito o pagamento.
+RN07- Relatório de Fluxo de Caixa: O relatório de fluxo de caixa será permitido somente para o administrador.
+RN08- Relatório de faturamento: Somente os administradores acessam os itens de faturamento. 
+RN09- Relatório de Procedimento: O sistema deverá emitir um relatório semanal/mensal de procedimentos.
+ 
