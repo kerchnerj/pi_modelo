@@ -79,7 +79,7 @@ Dados necessários: cpf, nome, telefone, email e endereço
 Usuários: Proprietária, gerente.
 
 R.F. 02- Cadastro de procedimento: Para fazer o cadastro  é necessário registrar os procedimentos.
- Descrição do procedimento.
+Descrição do procedimento.
 Usuários: Gerente.
 
 **Processamento:**
