@@ -104,4 +104,3 @@ Usuários: Proprietária, gerente
 R.F. 06 - Relatório do faturamento : O sistema deve permitir visualizar o faturamento mensal.
 Dados necessários: data inicial, data final.
 Usuários: Proprietária, gerente.
-
