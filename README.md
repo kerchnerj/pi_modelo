@@ -54,12 +54,54 @@ Depois que o procedimento é realizado, é disponibilizado um link de pagamento 
 #  Regras de negócio
 
 RN01- Para fazer o agendamento é necessário os dados do cliente e o procedimento no horário disponível.
+
 RN02 - Se o cliente não comparecer o horário ficará vago para encaixe.
+
 RN03- Para a confirmação do comparecimento do cliente, o sistema irá mandar uma mensagem no whatsapp um dia antes do procedimento.
+
 RN04- Cadastros de Cliente: Atualmente somente os administradores cadastram clientes.
+
 RN05 - Cadastro de procedimentos: Todos os funcionários têm permissão para cadastrar procedimentos estéticos. 
+
 RN06- Pagamento do procedimento: Após ser feito o procedimento é feito o pagamento.
+
 RN07- Relatório de Fluxo de Caixa: O relatório de fluxo de caixa será permitido somente para o administrador.
+
 RN08- Relatório de faturamento: Somente os administradores acessam os itens de faturamento. 
+
 RN09- Relatório de Procedimento: O sistema deverá emitir um relatório semanal/mensal de procedimentos.
  
+# Requisitos Funcionais 
+
+**Entradas:**
+R.F. 01 - Registro de cliente: Para fazer o agendamento é necessário registrar o cliente
+Dados necessários: cpf, nome, telefone, email e endereço
+Usuários: Proprietária, gerente.
+
+R.F. 02- Cadastro de procedimento: Para fazer o cadastro  é necessário registrar os procedimentos.
+ Descrição do procedimento.
+Usuários: Gerente.
+
+**Processamento:**
+R.F. 03 - Agendamento: Para fazer o agendamento é necessário os dados do cliente e o procedimento no horário disponível. 
+Dados necessários: cpf, procedimento e horário desejado.
+Usuários: Proprietária, gerente.
+
+
+R.F. 04 - Pagamento: Depois que o procedimento é realizado, é disponibilizado um link de pagamento. pix,cartão débito ou crédito
+Dados necessários: código do agendamento. forma de pgto
+Usuários: Proprietária e gerente
+R.F. 05 - Confirmação do comparecimento do cliente: o sistema irá mandar uma mensagem no whatsapp ou email um dia antes do procedimento.
+Dados necessários: número de telefone e email.
+Usuários: Proprietária e gerente
+
+
+**Saídas:**
+R.F. 05 - Relatório do agendamento: O sistema deve permitir visualizar os agendamentos feitos
+Dados necessários: data inicial, data final, procedimento
+Usuários: Proprietária, gerente
+
+R.F. 06 - Relatório do faturamento : O sistema deve permitir visualizar o faturamento mensal.
+Dados necessários: data inicial, data final.
+Usuários: Proprietária, gerente.
+
