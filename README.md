@@ -104,3 +104,15 @@ Usuários: Proprietária, gerente
 R.F. 06 - Relatório do faturamento : O sistema deve permitir visualizar o faturamento mensal.
 Dados necessários: data inicial, data final.
 Usuários: Proprietária, gerente.
+
+# Requisitos Não Funcionais 
+
+ **Usabilidade**
+R.N.F. 01 - Usabilidade: O sistema deve ser fácil de usar e entender.
+R.N.F. 1.2 -Usabilidade: O sistema deve ser utilizável por todos os navegadores.
+
+ **Segurança**
+R.N.F. 02 - Segurança: O sistema deve ser protegido contra acesso não autorizado.
+
+**Disponibilidade**
+R.N.F. 03 - Disponibilidade: O sistema deve estar disponível quando necessário.
