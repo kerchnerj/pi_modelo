@@ -109,6 +109,7 @@ Usuários: Proprietária, gerente.
 
  **Usabilidade**
 R.N.F. 01 - Usabilidade: O sistema deve ser fácil de usar e entender.
+
 R.N.F. 1.2 -Usabilidade: O sistema deve ser utilizável por todos os navegadores.
 
  **Segurança**
